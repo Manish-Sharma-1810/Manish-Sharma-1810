@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Manish
 - 👀 I’m interested in Machine Learning and NLP
-- 🌱 I’m currently learning NLP and voice technology
+- 🌱 I’m currently working on NLP and voice technology and Integrating with ML and AWS services
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me through LinkedIn https://www.linkedin.com/in/manish-kumar-1810/
 
 <!---
 Manish-Sharma-1810/Manish-Sharma-1810 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
