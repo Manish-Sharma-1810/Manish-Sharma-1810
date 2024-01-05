@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manish
-- 👀 I’m interested in Python, ML and AWS integration.
-- 🌱 I’m currently working on NLP and voice technology and Integrating with ML and AWS services
+- 👀 I’m interested in AWS, Cloud, and Big Data.
+- 🌱 I’m currently working Cloud Security (AWS and Azure) domain
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through LinkedIn https://www.linkedin.com/in/manish-kumar-1810/
 
