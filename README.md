@@ -22,7 +22,7 @@ On my GitHub profile, you'll discover:
 - **Open Source Contributions**: I actively contribute to open-source projects, especially those related to AWS SDKs, Python libraries, and serverless frameworks.
 
 ## Connect With Me
-- **LinkedIn**: [Your LinkedIn Profile](#)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/manish-kumar-1810)
 - **Twitter**: [@YourTwitterHandle](#)
 - **Website/Blog**: [Your Website/Blog](#)
 
