@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Manish
-- 👀 I’m interested in AWS, Cloud, and Big Data.
-- 🌱 I’m currently working Cloud Security (AWS and Azure) domain
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me through LinkedIn https://www.linkedin.com/in/manish-kumar-1810/
-
 # Welcome to My GitHub Profile!
 
 ## About Me
@@ -22,9 +16,9 @@ On my GitHub profile, you'll discover:
 - **Open Source Contributions**: I actively contribute to open-source projects, especially those related to AWS SDKs, Python libraries, and serverless frameworks.
 
 ## Connect With Me
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/manish-kumar-1810)
-- **Twitter**: [@YourTwitterHandle](#)
-- **Website/Blog**: [Your Website/Blog](#)
+- **LinkedIn**: [Manish@LinkedIn](https://www.linkedin.com/in/manish-kumar-1810)
+- **UpWork**: [Manish@UpWork](https://www.upwork.com/freelancers/manishkumarsharma)
+- **Personal Website**: [Manish@Portfolio](https://manishk.cloud/)
 
 Feel free to explore my repositories, star projects you find interesting, and reach out to connect or collaborate on exciting projects. Let's build awesome things together in the cloud!
 
