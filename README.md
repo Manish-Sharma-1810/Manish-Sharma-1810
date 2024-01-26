@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ## About Me
-Hello there! I'm passionate about cloud technologies, particularly specializing in Amazon Web Services (AWS). My expertise lies in leveraging AWS services to architect scalable, resilient, and secure cloud solutions. I hold the AWS Solution Architect certification, reflecting my commitment to mastering AWS best practices and architectures.
+Hello there! My name is **Manish Kumar** I'm passionate about cloud technologies, particularly specializing in Amazon Web Services (AWS). My expertise lies in leveraging AWS services to architect scalable, resilient, and secure cloud solutions. I hold the AWS Solution Architect certification, reflecting my commitment to mastering AWS best practices and architectures.
 
 ## What I Do
 - **AWS Developer**: I have a strong background in AWS services, including but not limited to EC2, S3, Lambda, API Gateway, DynamoDB, RDS, Kinesis, SQS, SNS, SES, CloudWatch, and more.
